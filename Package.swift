@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "covid-brasil-ape",
+    name: "covid-brasil-api",
     platforms: [
        .macOS(.v10_15)
     ],
